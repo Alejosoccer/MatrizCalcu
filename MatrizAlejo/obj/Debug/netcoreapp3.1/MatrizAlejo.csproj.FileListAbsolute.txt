@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\bin\Debug\netcoreapp3.1\MatrizAlejo.exe
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\bin\Debug\netcoreapp3.1\MatrizAlejo.deps.json
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\bin\Debug\netcoreapp3.1\MatrizAlejo.runtimeconfig.json
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\bin\Debug\netcoreapp3.1\MatrizAlejo.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\bin\Debug\netcoreapp3.1\MatrizAlejo.dll
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\bin\Debug\netcoreapp3.1\MatrizAlejo.pdb
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\obj\Debug\netcoreapp3.1\MatrizAlejo.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\obj\Debug\netcoreapp3.1\MatrizAlejo.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\obj\Debug\netcoreapp3.1\MatrizAlejo.AssemblyInfo.cs
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\obj\Debug\netcoreapp3.1\MatrizAlejo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\obj\Debug\netcoreapp3.1\MatrizAlejo.dll
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\obj\Debug\netcoreapp3.1\MatrizAlejo.pdb
+C:\Users\usuario\source\repos\MatrizAlejo\MatrizAlejo\obj\Debug\netcoreapp3.1\MatrizAlejo.genruntimeconfig.cache
